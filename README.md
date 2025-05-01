@@ -12,12 +12,11 @@ Zip files of my gerber files for each PCB I have created for my Watt-Meter
     8: Final_Board-Analog-v3
     9: Final_Board-v1
     10: Final_Board-v2
-    11: Final_Board-v3
-    12: Final_Board-v3-Triple-Transformer
-    13: Final_Board-v3B
-    14: Final_Board-v3B-Mark's Copy
-    15: Final_Board-v3C
-    16: Final_Board-v3D
+    11: Final_Board-v3-Triple-Transformer
+    12: Final_Board-v3B
+    13: Final_Board-v3B-Mark's Copy
+    14: Final_Board-v3C
+    15: Final_Board-v3D
     
     
     
